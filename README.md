@@ -1,4 +1,4 @@
-                                                                ### Choi Coding - diary 📓
+### Choi Coding - Diary 📓
 
 <!--
 **96CHOI/96CHOI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
