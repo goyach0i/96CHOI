@@ -1,4 +1,10 @@
-### Choi Coding - Diary 📓
+<div align = center>
+
+<br>
+
+### Choi Coding - Diary 📓 
+
+<br>
 
 <!--
 **96CHOI/96CHOI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<hr>
+<hr><br>
 💻 Studing_ing... <br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=96CHOI&show_icons=true&theme=radical)
+</div>
