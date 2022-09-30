@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-💻 Studing_ing... <br>
+💻 Studing_ing... <br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=96CHOI&show_icons=true&theme=radical)
