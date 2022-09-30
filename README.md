@@ -9,6 +9,9 @@
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 
+[![Email](https://img.shields.io/badge/Email-cyd684@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:hyunsangwon93@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-@0714yun-DB2973?logo=instagram&logoColor=white)](https://www.instagram.com/0714yun/)
+
 
 
 <hr><br>
