@@ -15,8 +15,6 @@
 
 ### ⚒️ Tool ⚒️
 
-<br>
-
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white">
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white">
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white">
@@ -24,8 +22,6 @@
 <br>
 
 ### 😎 ME 😎
-
-<br>
 
 [![Email](https://img.shields.io/badge/Email-cyd684@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:hyunsangwon93@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-@0714yun-DB2973?logo=instagram&logoColor=white)](https://www.instagram.com/0714yun/)
