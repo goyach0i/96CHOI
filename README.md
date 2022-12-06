@@ -2,12 +2,12 @@
   
 <br>
   
-# Choi Coding - Diary 📓 
+# 96CHOI Coding - Diary 📓 
 
 
 <br>
 
-### 📓 Studying Skills 📓
+### 💪 Studying Skills 
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/>
@@ -31,7 +31,7 @@
 
 <br>
 
-💻 Choi Coding Github Stats... 💻 <br><br>
+💻 Choi Coding Github Stats...  <br><br>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=96CHOI&show_icons=true&theme=radical)
 
