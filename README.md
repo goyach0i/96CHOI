@@ -2,7 +2,7 @@
   
 <br>
   
-# 96CHOI Coding - Diary 📓 
+# goyaChoi Coding - Diary 📓 
 
 
 <br>
@@ -27,7 +27,7 @@
 
 ### 😎 ME 😎
 
-[![Email](https://img.shields.io/badge/Email-cyd684@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:hyunsangwon93@gmail.com)
+[![Email](https://img.shields.io/badge/Email-dev.goyachoi@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:hyunsangwon93@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-@0714yun-DB2973?logo=instagram&logoColor=white)](https://www.instagram.com/0714yun/)<br/>
 portfolio : https://interesting-mandarin-a49.notion.site/441ba5946054479f9e98a7fd30c4fad8
 
