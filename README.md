@@ -33,8 +33,8 @@ portfolio : https://interesting-mandarin-a49.notion.site/441ba5946054479f9e98a7f
 
 <br>
 
-💻 96CHOI Coding Github Stats...  <br><br>
+💻 goyaChoi Coding Github Stats...  <br><br>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=96CHOI&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goyach0i&show_icons=true&theme=radical)
 
 </div>
